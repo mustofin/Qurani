@@ -1,0 +1,45 @@
+{
+    "version" : "2020.02.09.01",
+    "content" : [
+        {
+            "id" : "1",
+		    "matan" : "اِقْرَأْ بِاسْمِ رَبِّكَ الَّذِيْ خَلَقَۚ",
+		    "translation" : "Bacalah dengan (menyebut) nama Tuhanmu yang menciptakan.",
+		    "reference" : "QS. Al 'Alaq: 1",
+            "type" : "quran",
+            "category" : ["pendidikan"]
+        },
+        {
+            "id" : "2",
+		    "matan" : "خَلَقَ الْاِنْسَانَ مِنْ عَلَقٍۚ",
+		    "translation" : "Dia telah menciptakan manusia dari segumpal darah.",
+		    "reference" : "QS. Al 'Alaq: 2",
+            "type" : "quran",
+            "category" : ["pendidikan"]
+        },
+        {
+            "id" : "3",
+		    "matan" : "اِقْرَأْ وَرَبُّكَ الْاَكْرَمُۙ",
+		    "translation" : "Bacalah, dan Tuhanmulah Yang Mahamulia,",
+		    "reference" : "QS. Al 'Alaq: 3",
+            "type" : "quran",
+            "category" : ["pendidikan"]
+        },
+        {
+            "id" : "4",
+		    "matan" : "الَّذِيْ عَلَّمَ بِالْقَلَمِۙ",
+		    "translation" : "Yang mengajar (manusia) dengan pena.",
+		    "reference" : "QS. Al 'Alaq: 4",
+            "type" : "quran",
+            "category" : ["pendidikan"]
+        },
+        {
+            "id" : "5",
+		    "matan" : "عَلَّمَ الْاِنْسَانَ مَا لَمْ يَعْلَمْۗ",
+		    "translation" : "Dia mengajarkan manusia apa yang tidak diketahuinya.",
+		    "reference" : "QS. Al 'Alaq: 5",
+            "type" : "quran",
+            "category" : ["pendidikan"]
+        }
+    ]
+}

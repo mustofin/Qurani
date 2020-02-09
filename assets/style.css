@@ -1,0 +1,45 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:800,300);
+@import url("https://fonts.googleapis.com/css?family=Yesteryear");
+body {
+  background: #201C29;
+  color: aliceblue;
+  font-family: Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+#quran {
+    position: relative;
+    top: 100px;
+    text-align: center;
+}
+
+#quran .wrapper .vertical .matan {
+    font-size: 40px;
+    font-family: "KFGQPC Uthman Taha Naskh", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    margin-bottom: 10px;
+}
+
+#quran .wrapper .vertical .translation {
+    font-size: 24px;
+    font-style: italic;
+    font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+#quran .wrapper .vertical .reference {
+    margin-top: 8px;
+    font-style: italic;
+    font-size: 12pt;
+}
+
+#quran .wrapper .vertical .category {
+    margin-top: 8px;
+    font-style: italic;
+    font-family: sans-serif;
+    font-size: 11pt;
+    color: rgb(146, 143, 153);
+}
+
+#copyright {
+    text-align: right;
+    font-size: 13pt;
+    font-family: sans-serif;
+    color: rgb(93, 89, 102);
+}

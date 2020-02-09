@@ -1,0 +1,11 @@
+{
+    "name" : "Qurani",
+    "short_name": "Qurani",
+    "description" : "Daily Quran with Topic by Tofin",
+    "version": "0.0.1",
+    "incognito": "split",
+    "chrome_url_overrides": {
+        "newtab": "dashboard.html"
+    },
+    "manifest_version": 2
+}
