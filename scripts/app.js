@@ -57,7 +57,8 @@
         creatorName: "Misbakhul Mustofin",
         creatorEmail: "mr.tofin@gmail.com",
         changelogs: [
-            'Initial Version: Al Alaq: 1-5',
+            'QS. Al-A’raf: 31',
+            'Hadits Tirmidzi Nomor 2302'
         ],
     
         // =========== CONTENT

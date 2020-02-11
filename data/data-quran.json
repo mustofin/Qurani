@@ -40,6 +40,22 @@
 		    "reference" : "QS. Al 'Alaq: 5",
             "type" : "quran",
             "category" : ["pendidikan"]
+        },
+        {
+            "id" : "6",
+		    "matan" : "يَا بَنِي آدَمَ خُذُوا زِينَتَكُمْ عِنْدَ كُلِّ مَسْجِدٍ وَكُلُوا وَاشْرَبُوا وَلَا تُسْرِفُوا ۚ إِنَّهُ لَا يُحِبُّ الْمُسْرِفِينَ",
+		    "translation" : "Hai anak Adam, pakailah pakaianmu yang indah di setiap (memasuki) mesjid, makan dan minumlah, dan janganlah berlebih-lebihan. Sesungguhnya Allah tidak menyukai orang-orang yang berlebih-lebihan.",
+		    "reference" : "QS. Al-A’raf: 31",
+            "type" : "quran",
+            "category" : ["kesehatan", "pakaian"]
+        },
+        {
+            "id" : "7",
+		    "matan" : "",
+		    "translation" : "Manusia tidak memenuhi wadah yang buruk melebihi perut, cukup bagi manusia beberapa suapan yang menegakkan tulang punggungnya, bila tidak bisa maka sepertiga untuk makanannya, sepertiga untuk minumnya dan sepertiga untuk nafasnya.",
+		    "reference" : "Hadits Tirmidzi Nomor 2302",
+            "type" : "hadits",
+            "category" : ["kesehatan"]
         }
     ]
 }
