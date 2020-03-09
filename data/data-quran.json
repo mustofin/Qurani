@@ -1,61 +1,76 @@
 {
-    "version" : "2020.02.09.01",
-    "content" : [
-        {
-            "id" : "1",
-		    "matan" : "اِقْرَأْ بِاسْمِ رَبِّكَ الَّذِيْ خَلَقَۚ",
-		    "translation" : "Bacalah dengan (menyebut) nama Tuhanmu yang menciptakan.",
-		    "reference" : "QS. Al 'Alaq: 1",
-            "type" : "quran",
-            "category" : ["pendidikan"]
+    "version": "2020.02.09.01",
+    "content": [{
+            "id": "1",
+            "matan": "اِقْرَأْ بِاسْمِ رَبِّكَ الَّذِيْ خَلَقَۚ",
+            "translation": "Bacalah dengan (menyebut) nama Tuhanmu yang menciptakan.",
+            "reference": "QS. Al 'Alaq: 1",
+            "type": "quran",
+            "category": ["pendidikan"]
         },
         {
-            "id" : "2",
-		    "matan" : "خَلَقَ الْاِنْسَانَ مِنْ عَلَقٍۚ",
-		    "translation" : "Dia telah menciptakan manusia dari segumpal darah.",
-		    "reference" : "QS. Al 'Alaq: 2",
-            "type" : "quran",
-            "category" : ["pendidikan"]
+            "id": "2",
+            "matan": "خَلَقَ الْاِنْسَانَ مِنْ عَلَقٍۚ",
+            "translation": "Dia telah menciptakan manusia dari segumpal darah.",
+            "reference": "QS. Al 'Alaq: 2",
+            "type": "quran",
+            "category": ["pendidikan"]
         },
         {
-            "id" : "3",
-		    "matan" : "اِقْرَأْ وَرَبُّكَ الْاَكْرَمُۙ",
-		    "translation" : "Bacalah, dan Tuhanmulah Yang Mahamulia,",
-		    "reference" : "QS. Al 'Alaq: 3",
-            "type" : "quran",
-            "category" : ["pendidikan"]
+            "id": "3",
+            "matan": "اِقْرَأْ وَرَبُّكَ الْاَكْرَمُۙ",
+            "translation": "Bacalah, dan Tuhanmulah Yang Mahamulia,",
+            "reference": "QS. Al 'Alaq: 3",
+            "type": "quran",
+            "category": ["pendidikan"]
         },
         {
-            "id" : "4",
-		    "matan" : "الَّذِيْ عَلَّمَ بِالْقَلَمِۙ",
-		    "translation" : "Yang mengajar (manusia) dengan pena.",
-		    "reference" : "QS. Al 'Alaq: 4",
-            "type" : "quran",
-            "category" : ["pendidikan"]
+            "id": "4",
+            "matan": "الَّذِيْ عَلَّمَ بِالْقَلَمِۙ",
+            "translation": "Yang mengajar (manusia) dengan pena.",
+            "reference": "QS. Al 'Alaq: 4",
+            "type": "quran",
+            "category": ["pendidikan"]
         },
         {
-            "id" : "5",
-		    "matan" : "عَلَّمَ الْاِنْسَانَ مَا لَمْ يَعْلَمْۗ",
-		    "translation" : "Dia mengajarkan manusia apa yang tidak diketahuinya.",
-		    "reference" : "QS. Al 'Alaq: 5",
-            "type" : "quran",
-            "category" : ["pendidikan"]
+            "id": "5",
+            "matan": "عَلَّمَ الْاِنْسَانَ مَا لَمْ يَعْلَمْۗ",
+            "translation": "Dia mengajarkan manusia apa yang tidak diketahuinya.",
+            "reference": "QS. Al 'Alaq: 5",
+            "type": "quran",
+            "category": ["pendidikan"]
         },
         {
-            "id" : "6",
-		    "matan" : "يَا بَنِي آدَمَ خُذُوا زِينَتَكُمْ عِنْدَ كُلِّ مَسْجِدٍ وَكُلُوا وَاشْرَبُوا وَلَا تُسْرِفُوا ۚ إِنَّهُ لَا يُحِبُّ الْمُسْرِفِينَ",
-		    "translation" : "Hai anak Adam, pakailah pakaianmu yang indah di setiap (memasuki) mesjid, makan dan minumlah, dan janganlah berlebih-lebihan. Sesungguhnya Allah tidak menyukai orang-orang yang berlebih-lebihan.",
-		    "reference" : "QS. Al-A’raf: 31",
-            "type" : "quran",
-            "category" : ["kesehatan", "pakaian"]
+            "id": "6",
+            "matan": "يَا بَنِي آدَمَ خُذُوا زِينَتَكُمْ عِنْدَ كُلِّ مَسْجِدٍ وَكُلُوا وَاشْرَبُوا وَلَا تُسْرِفُوا ۚ إِنَّهُ لَا يُحِبُّ الْمُسْرِفِينَ",
+            "translation": "Hai anak Adam, pakailah pakaianmu yang indah di setiap (memasuki) mesjid, makan dan minumlah, dan janganlah berlebih-lebihan. Sesungguhnya Allah tidak menyukai orang-orang yang berlebih-lebihan.",
+            "reference": "QS. Al-A’raf: 31",
+            "type": "quran",
+            "category": ["kesehatan", "pakaian"]
         },
         {
-            "id" : "7",
-		    "matan" : "",
-		    "translation" : "Manusia tidak memenuhi wadah yang buruk melebihi perut, cukup bagi manusia beberapa suapan yang menegakkan tulang punggungnya, bila tidak bisa maka sepertiga untuk makanannya, sepertiga untuk minumnya dan sepertiga untuk nafasnya.",
-		    "reference" : "Hadits Tirmidzi Nomor 2302",
-            "type" : "hadits",
-            "category" : ["kesehatan"]
+            "id": "7",
+            "matan": "",
+            "translation": "Manusia tidak memenuhi wadah yang buruk melebihi perut, cukup bagi manusia beberapa suapan yang menegakkan tulang punggungnya, bila tidak bisa maka sepertiga untuk makanannya, sepertiga untuk minumnya dan sepertiga untuk nafasnya.",
+            "reference": "Hadits Tirmidzi Nomor 2302",
+            "type": "hadits",
+            "category": ["kesehatan"]
+        },
+        {
+            "id": "8",
+            "matan": "من يرد الله به خيرا يفقهه في الدين",
+            "translation": "Barang siapa yang dikehendaki oleh Allah kebaikan, maka Dia akan memberikan pemahaman tentang agama kepadanya",
+            "reference": "HR. Imam al-Bukhari, dalam kitabul ‘Ilmi bab Man Yuridillahu bihi Khairan Yufaqqihhu fid Diin, no. 71 ",
+            "type": "hadits",
+            "category": ["ilmu, pendidikan"]
+        },
+        {
+            "id": "9",
+            "matan": "سَنُرِيهِمْ آيَاتِنَا فِي الْآفَاقِ وَفِي أَنفُسِهِمْ حَتَّى يَتَبَيَّنَ لَهُمْ أَنَّهُ الْحَقُّ أَوَلَمْ يَكْفِ بِرَبِّكَ أَنَّهُ عَلَى كُلِّ شَيْءٍ شَهِيدٌ",
+            "translation": "Kami akan memperlihatkan kepada mereka tanda-tanda (kekuasaan) Kami di segala wilayah bumi dan pada diri mereka sendiri, hingga jelas bagi mereka bahwa Al Quran itu adalah benar. Tiadakah cukup bahwa sesungguhnya Tuhanmu menjadi saksi atas segala sesuatu?",
+            "reference": "QS. Fussilat : 53",
+            "type": "quran",
+            "category": ["ayatullah, hikmah"]
         }
     ]
 }
